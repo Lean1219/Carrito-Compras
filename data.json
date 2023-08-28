@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "nombre": "Cpu Intel",
+        "precio": 550000,
+        "img": "img/pc1.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 2,
+        "nombre": "Cpu AMD",
+        "precio": 479999,
+        "img": "img/pc2.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 3,
+        "nombre": "Monitor 144HZ",
+        "precio": 156500,
+        "img": "img/monitor.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 4,
+        "nombre": "Combo Teclado,Mouse y Auricular",
+        "precio": 60870,
+        "img": "img/combo.jpg",
+        "cantidad": 1
+    }
+]
